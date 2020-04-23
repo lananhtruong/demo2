@@ -9,7 +9,7 @@
    
     
     <h1>Xét loại tam giác</h1>
-    <form action="loaitamgiac.php" method="get">
+    <form action="xettamgiac.php" method="get">
         <br>Nhập cạnh a
         <input type="text" name="a">
         <br>Nhập cạnh b
@@ -21,7 +21,7 @@
         
     </form>
     <h1>Xác định ngày kế tiếp</h1>
-    <form action="ngayketiep.php" method="get">
+    <form action="xetngayketiep.php" method="get">
         <br>Nhập ngày hiện tại
         <input type="text" name="day">
         <br>Nhập tháng hiện tại
