@@ -17,7 +17,7 @@
         <br>Nhập cạnh c
         <input type="text" name="c">
         <br>
-        <input type="submit" name="Caculate" value="Đáp án">
+        <input type="submit" name="dapan" value="Đáp án">
         
     </form>
 
