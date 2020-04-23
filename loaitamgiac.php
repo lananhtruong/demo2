@@ -1,6 +1,6 @@
 <?php
         $result=array();
-        if(isset($_GET['Caculate']))
+        if(isset($_GET['dapan']))
         {
             $a = isset($_GET['a']) ? $_GET['a'] : '';
             $b = isset($_GET['b']) ? $_GET['b'] : '';
